@@ -5,7 +5,6 @@ I study how people make sense of technology, intelligent systems, and each other
 ## 🌐 Open Source
 
 I build practical tools and public experiments for researchers:
-- 🧭 [Human-Centered AI Evaluation](https://github.com/saeede83/human-centered-ai-evaluation) – A field guide for evaluating AI through human experience, judgment, and behavior.
 - 📋 [Survey Analysis Contract](https://github.com/saeede83/survey_analysis_contract) – A rigorous contract for survey analysis in quantitative UX research and product decision-making.
 - 📚 [Personal Reading Feed](https://github.com/saeede83/personal_reading_feed) – A customizable, low-noise reading feed built from a short interest profile.
 - 📐 [Power & Sample Size Playground](https://github.com/saeede83/power-sample-playground) – Interactive power analysis and survey sample-size tools for UX researchers.
