@@ -13,6 +13,7 @@ I build practical tools and public experiments for researchers:
 ## 📄 Publications
 
 Selected publications:
+- 🔁 [Retentive Relevance: Capturing Long-Term User Value in Recommendation Systems](https://ojs.aaai.org/index.php/ICWSM/article/view/42633) – **ICWSM 2026**
 - 🎞️ [Fast, Cheap, and Good: Why Animated GIFs Engage Us](https://dblp.org/rec/conf/chi/BakhshiSKSJK16) – **CHI 2016**
 - 📷 [Faces Engage Us: Photos with Faces Attract More Likes and Comments on Instagram](https://dblp.org/rec/conf/chi/BakhshiSG14) – **CHI 2014**
 - 🖼️ [Why We Filter Our Photos and How It Impacts Engagement](https://dblp.org/rec/conf/icwsm/BakhshiSKG15) – **ICWSM 2015**
