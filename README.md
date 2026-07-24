@@ -18,4 +18,4 @@ Selected publications:
 - 🖼️ [Why We Filter Our Photos and How It Impacts Engagement](https://dblp.org/rec/conf/icwsm/BakhshiSKG15) – **ICWSM 2015**
 - 💬 [Understanding Online Reviews: Funny, Cool or Useful?](https://dblp.org/rec/conf/cscw/BakhshiKS15) – **CSCW 2015**
 
-More of my work: [saeideh.com](https://saeideh.com/) · [LinkedIn](https://www.linkedin.com/in/saeideh-bakhshi-68a3676/)
+More of my work: [saeideh.com](https://saeideh.com/) · [Substack](https://saeidehbakhshi.substack.com/) · [LinkedIn](https://www.linkedin.com/in/saeideh-bakhshi-68a3676/)
